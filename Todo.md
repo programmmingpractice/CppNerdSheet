@@ -13,6 +13,9 @@
 - Character Builder
 - Class and Race data entered in
 - Level Ups automatically
+- Nice UI
+- .sh file for usage on all platforms
 
 ## Maybe in the future ##
 - Chat server using socket
+- Art
