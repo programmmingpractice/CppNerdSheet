@@ -1,7 +1,7 @@
-#TODO#
+# TODO #
 
 
-##Basics##
+## Basics ##
 - Build a Cpp class for saving variables
 - Figure out a window making tool
 - Loading and Saving Functions
@@ -14,5 +14,5 @@
 - Class and Race data entered in
 - Level Ups automatically
 
-##Maybe in the future##
+## Maybe in the future ##
 - Chat server using socket
